@@ -1,0 +1,1 @@
+a plugin for PIXI.js to use Tiled Data.
